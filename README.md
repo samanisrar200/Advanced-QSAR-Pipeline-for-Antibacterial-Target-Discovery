@@ -1,6 +1,5 @@
-# PrognicaLabs_Assignment - Computational Hit Discovery & QSAR Prototype
+# Advanced QSAR Pipeline for Antibacterial Target Discovery
 
-**Prognica Labs – Computational Hit Discovery & QSAR Prototype**
 
 Tasks 5 & 6: Hit Identification and AI-Based Hit Scoring
 
