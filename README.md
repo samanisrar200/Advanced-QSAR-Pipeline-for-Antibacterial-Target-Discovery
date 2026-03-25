@@ -1,11 +1,11 @@
 # Advanced QSAR Pipeline for Antibacterial Target Discovery
 
 
-Tasks 5 & 6: Hit Identification and AI-Based Hit Scoring
+Hit Identification and AI-Based Hit Scoring
 
 **Overview**
 
-This repository contains an end-to-end computational drug discovery workflow developed as part of Prognica Labs Tasks 5 and 6. The project focuses on:
+This repository contains an end-to-end computational drug discovery workflow. The project focuses on:
 
 Mining bioactive compounds against DNA gyrase from ChEMBL
 Curating and filtering compounds using classical drug-likeness rules
@@ -15,7 +15,7 @@ Building an explainable QSAR prototype for AI-based hit prioritization
 The pipeline integrates RDKit-based cheminformatics with machine learning (Random Forest), chemical space visualization (UMAP), model interpretability (SHAP), and scaffold-aware validation to provide a realistic early-stage hit discovery framework.
 
 
-**TASK5-5: Hit Identification & Compound Mining**
+**TASK5 Hit Identification & Compound Mining**
 
 *Objectives* -
   Retrieve compounds targeting DNA gyrase from ChEMBL,
@@ -62,7 +62,7 @@ The pipeline integrates RDKit-based cheminformatics with machine learning (Rando
   Ranked shortlist of hits with physicochemical rationale,
   CSV export of shortlisted compounds
 
-**Task-6: AI-Based Hit Scoring / QSAR Prototype**
+**Task: AI-Based Hit Scoring / QSAR Prototype**
 
 *Objectives* -
 Train ML models to predict compound bioactivity,
